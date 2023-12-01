@@ -11,7 +11,7 @@ Data in this challenge includes the athletic apparels and footwear for year 2020
 Make sure to check both have samee columns and data types. Clean up the data by checking for any null values. And then concat the rows from both datasets to one. 
 
 # Extraction
-Using groupby and pivot_table extract sales and products sold across different regions, state, city and gender. Resampling by week and daily to get the trend of sales.
+Using groupby and pivot_table extract sales and products sold across different retailers, regions, state, city and gender. Resampling by week and daily to get the trend of sales.
 
 # Outputs
 Total Sales by retailer and their region, state, city
